@@ -10,8 +10,6 @@ Usage of this code is free for research purposes only.
 
 Please refer to the above publication if you use this code. Thank you.
 
-Thank you.
-
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 Requirements:
